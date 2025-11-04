@@ -38,11 +38,17 @@
 
 ### 📬 Contact Me
 <p align="left">
-  <a href="mailto:moniemhgagy@gmail.com"><img src="https://img.shields.io/badge/Email-abdelmoniem%40example.com-blue?style=flat-square&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/abdelmoniemhaggy](https://www.linkedin.com/in/abdelmoniem-ahmed-3751761b7/">
-    <img src="https://img.shields.io/badge/LinkedIn AbdelMoniemHaggy-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/Abdelmoniemhgagyy"><img src="https://img.shields.io/badge/GitHub-Abdelmoniemhgagyy-black?style=flat-square&logo=github" /></a>
+  <a href="mailto:moniemhgagy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-moniemhgagy%40gmail.com-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdelmoniem-ahmed-3751761b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-AbdelMoniemHaggy-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Abdelmoniemhgagyy">
+    <img src="https://img.shields.io/badge/GitHub-Abdelmoniemhgagyy-black?style=flat-square&logo=github" />
+  </a>
 </p>
+
 
 ---
 
