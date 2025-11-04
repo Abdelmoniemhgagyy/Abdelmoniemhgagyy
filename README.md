@@ -3,17 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Odoo+and+React+Developer;React+%7C+PostgreSQL+%7C+TailwindCSS;Clean+Code+%26+Scalable+Architecture" alt="Typing SVG" />
 </p>
-
 ---
-
 ### 🧠 About Me
 - 💼 I’m a **Full-Stack Developer** passionate about backend logic and frontend creativity.  
 - ⚙️ I specialize in **Python**, **Odoo**, and **React.js**.  
 - 🧩 I love building clean, maintainable systems using **PostgreSQL** and **modern UI frameworks**.  
 - 🚀 Always learning, always improving.
-
 ---
-
 ### 🛠️ Tech Stack
 
 <div align="center">
