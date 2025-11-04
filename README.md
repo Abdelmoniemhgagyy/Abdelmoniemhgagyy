@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Abdel Moniem Haggy (Haggy)</h1>
+<h1 align="center">👋 Hi, I'm AbdelMoniem Hgagy </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Odoo+and+React+Developer;React+%7C+PostgreSQL+%7C+TailwindCSS;Clean+Code+%26+Scalable+Architecture" alt="Typing SVG" />
