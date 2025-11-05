@@ -61,9 +61,13 @@
   </a>
 </p>
 
-
 ---
+###
+
+<br clear="both">
 
 <div align="center">
   <img height="200" src="https://cdn.dribbble.com/userupload/42231111/file/original-b5767f4a135b60016855d363faf19d3d.gif"  />
 </div>
+
+###
