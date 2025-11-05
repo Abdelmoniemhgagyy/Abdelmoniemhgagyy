@@ -40,9 +40,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </p>
->
-
-
 
 ### 🚀 Featured Projects
 - 🧩 **Quantoon** — Islamic audio & Quran library built with React + PostgreSQL.  
