@@ -15,16 +15,6 @@
 ---
 ### 🛠️ Tech Stack
 
-<style>
-  .tech-icons img {
-    transition: transform 0.3s ease;
-    margin: 0 10px;
-  }
-  .tech-icons img:hover {
-    transform: scale(1.3);
-  }
-</style>
-
 <p align="center" class="tech-icons">
   <marquee behavior="scroll" direction="left" scrollamount="5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
