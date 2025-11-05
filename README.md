@@ -64,9 +64,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://cdn-icons-mp4.flaticon.com/512/14447/14447553.mp4">
-    <img src="https://i.imgur.com/YOUR_THUMBNAIL.png" alt="Watch Video" width="200"/>
-  </a>
-</p>
-
+<div align="center">
+  <img height="200" src="https://cdn.dribbble.com/userupload/42231111/file/original-b5767f4a135b60016855d363faf19d3d.gif"  />
+</div>
