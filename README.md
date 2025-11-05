@@ -65,8 +65,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
-  <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/2108b1128233439.615236a4da3da.gif" />
+  <img height="200" width="312.5" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+  <img height="200" width="312.5" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/2108b1128233439.615236a4da3da.gif" />
 </div>
 
 
