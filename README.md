@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9401eb33-8de9-4ed5-a8e1-d444c65ec760" /><img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/dcce34bf-f070-48b6-a1fb-0d344e7dba08" /><h1 align="center">👋 Hi, I'm Abdelmoniem Hgagy </h1>
+<h1 align="center">👋 Hi, I'm Abdelmoniem Hgagy </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Odoo+and+React+Developer;React+%7C+PostgreSQL+%7C+TailwindCSS;Clean+Code+%26+Scalable+Architecture" alt="Typing SVG" />
