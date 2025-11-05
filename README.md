@@ -15,9 +15,31 @@
 ---
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdelmoniemhgagyy/Abdelmoniemhgagyy/main/tech-scroll.svg" alt="Animated Tech Stack" />
+<style>
+  .tech-icons img {
+    transition: transform 0.3s ease;
+    margin: 0 10px;
+  }
+  .tech-icons img:hover {
+    transform: scale(1.3);
+  }
+</style>
+
+<p align="center" class="tech-icons">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="Tailwind" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VSCode" />
+  </marquee>
 </p>
+>
 
 
 
